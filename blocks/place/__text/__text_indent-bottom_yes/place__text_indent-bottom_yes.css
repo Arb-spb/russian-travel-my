@@ -1,0 +1,9 @@
+.place__text_indent-bottom_yes {
+    margin-bottom: 27px;
+}
+
+@media (max-width: 768px) {
+    .place__text_indent-bottom_yes {
+        margin-bottom: 25px;
+    }
+}

@@ -1,0 +1,8 @@
+.footer__copyright {
+    margin-top: 0;
+}
+@media (max-width: 680px) {
+    .footer {
+        gap: 48px;
+    }
+}

@@ -1,0 +1,9 @@
+.header__lang {
+    padding-top: 46px;
+}
+
+@media (max-width: 350px) {
+    .header__lang {
+        padding-top: 30px;
+    }
+}
