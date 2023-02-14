@@ -1,18 +1,18 @@
 /* Поля меняются в зависимости от размера окна: 48-48-24-16 */
-.section-width_size_1 {
+.section-width_size_4in4 {
     padding-left: 48px;
     padding-right: 48px;
 }
 
 
 @media (max-width: 768px) {
-    .section-width_size_1 {
+    .section-width_size_4in4 {
         padding-left: 24px;
         padding-right: 24px;
     }
 }
 @media (max-width: 320px) {
-    .section-width_size_1 {
+    .section-width_size_4in4 {
         padding-left: 16px;
         padding-right: 16px;
     }

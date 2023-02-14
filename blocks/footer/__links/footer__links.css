@@ -2,9 +2,12 @@
     display: grid;
     grid-template-columns: repeat(5, min-content);
     list-style: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
 
-@media (max-width: 680px) {
+@media (max-width: 691px) {
     .footer__links {
         grid-template-columns: 1fr;
         row-gap: 32px;

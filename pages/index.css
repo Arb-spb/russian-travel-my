@@ -1,15 +1,15 @@
-@import "../vendor/normalize.css";
-@import "../blocks/body/body.css";
-
 @import "../font.css";
+@import "../vendor/normalize.css";
+
+@import "../blocks/body/body.css";
 @import "../blocks/page/page.css";
 @import "../blocks/main/main.css";
 
 @import "../blocks/section-width/section-width.css";
-@import "../blocks/section-width/_size/section-width_size_1.css";
-@import "../blocks/section-width/_size/section-width_size_2.css";
-@import "../blocks/section-width/_size/section-width_size_3.css";
-@import "../blocks/section-width/_size/section-width_size_4.css";
+@import "../blocks/section-width/_size/section-width_size_1in4.css";
+@import "../blocks/section-width/_size/section-width_size_2in4.css";
+@import "../blocks/section-width/_size/section-width_size_3in4.css";
+@import "../blocks/section-width/_size/section-width_size_4in4.css";
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__lang/header__lang.css";
@@ -46,12 +46,10 @@
 @import "../blocks/place/__text/__text_indent-bottom_no/place__text_indent-bottom_no.css";
 
 @import "../blocks/cover/cover.css";
-@import "../blocks/cover/__overlay/cover__overlay.css";
 @import "../blocks/cover/__text/cover__text.css";
 @import "../blocks/cover/__title/cover__title.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 @import "../blocks/cover/__background/cover__background.css";
-@import "../blocks/cover/__img/cover__img.css";
 
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__link/footer__link.css";

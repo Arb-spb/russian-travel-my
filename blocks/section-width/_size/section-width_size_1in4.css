@@ -1,0 +1,12 @@
+/* Поля меняются в зависимости от размера окна: 48-0-0-0 */
+.section-width_size_1in4 {
+    margin-right: 48px;
+    margin-left: 48px;
+}
+
+@media (max-width: 1024px) {
+    .section-width_size_1in4 {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
