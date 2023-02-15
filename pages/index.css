@@ -6,10 +6,10 @@
 @import "../blocks/main/main.css";
 
 @import "../blocks/section-width/section-width.css";
-@import "../blocks/section-width/_size/section-width_size_1in4.css";
-@import "../blocks/section-width/_size/section-width_size_2in4.css";
-@import "../blocks/section-width/_size/section-width_size_3in4.css";
-@import "../blocks/section-width/_size/section-width_size_4in4.css";
+@import "../blocks/section-width/_size/section-width_size_w-margin.css";
+@import "../blocks/section-width/_size/section-width_size_ww.css";
+@import "../blocks/section-width/_size/section-width_size_www.css";
+@import "../blocks/section-width/_size/section-width_size_wwww.css";
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__lang/header__lang.css";
