@@ -4,13 +4,13 @@
     padding-right: 48px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .section-width_size_www {
         padding-left: 24px;
         padding-right: 24px;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 450px) {
     .section-width_size_www {
         padding-left: 0;
         padding-right: 0;

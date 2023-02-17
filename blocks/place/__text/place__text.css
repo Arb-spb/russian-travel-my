@@ -1,21 +1,23 @@
 .place__text {
     font-weight: 400;
     font-size: 18px;
-    line-height: 29px;
+    line-height: 163%;
     text-align: left;
-    margin-bottom: 27px;
+    margin: 0 0 27px 0;
+}
+.place__text:last-child {
+    margin-bottom: 0;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1023px) {
     .place__text {
         font-size: 16px;
-        line-height: 26px;
         margin-bottom: 25px;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
     .place__text {
-        margin-left: 16px;
-        margin-right: 16px;
+        font-size: 16px;
+        margin: 0 16px 25px 16px;
     }
 }

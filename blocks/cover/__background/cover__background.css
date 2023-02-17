@@ -41,7 +41,7 @@
         min-height: 480px;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 600px) {
     .cover__background {
         min-height: 200px;
     }
