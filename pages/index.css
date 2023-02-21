@@ -19,7 +19,7 @@
 
 @import "../blocks/intro/intro.css";
 @import "../blocks/intro/__list/intro__list.css";
-@import "../blocks/intro/__list-important/intro__list-important.css";
+@import "../blocks/intro/__list-accent/intro__list-accent.css";
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__title/intro__title.css";
 
